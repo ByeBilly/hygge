@@ -1,0 +1,7 @@
+{
+  "name": "HYGGE - Cozy Dating",
+  "description": "A cozy, slow, safe dating app focused on emotional warmth and meaningful connection. Find someone who feels like home.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
